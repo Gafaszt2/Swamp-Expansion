@@ -1,0 +1,34 @@
+[	
+      {
+		"name": "Natural Gas",
+		"resourceType": "Strategic",
+		"revealedBy": "Biology",
+		"terrainsCanBeFoundOn": ["Desert","Coast","Tundra","Snow","Marsh","Jungle"],
+		"production": 1,
+		"improvement": "Quarry",
+		"improvementStats": {"production": 2},
+		"uniques": ["Generated with weight [25] <in [Hill] tiles>",
+					"Generated with weight [24] <in [Jungle] tiles> <in tiles without [Hill]>",
+					"Generated with weight [24] <in [Forest] tiles> <in tiles without [Hill]>",
+					"Minor deposits generated with weight [50] <in [Marsh] tiles> <in tiles without [Hill]>",
+					"Minor deposits generated with weight [50] <in [Jungle] tiles>",
+					"Minor deposits generated with weight [50] <in [Forest] tiles>",
+					"Minor deposits generated with weight [40] <in [Grassland] [Hill] tiles>",
+					"Minor deposits generated with weight [40] <in [Plains] [Hill] tiles>",
+					"Minor deposits generated with weight [30] <in [Desert] [Hill] tiles>",
+					"Minor deposits generated with weight [30] <in [Tundra] [Hill] tiles>",
+					"Minor deposits generated with weight [30] <in [Snow] [Hill] tiles>"],
+		"majorDepositAmount": {"sparse": 5, "default": 7, "abundant": 10},
+		"minorDepositAmount": {"sparse": 2, "default": 3, "abundant": 3}
+	},
+      {
+		"name": "Fresh Water",
+		"resourceType": "Strategic",
+		"revealedBy": "Biology",
+		"terrainsCanBeFoundOn": ["Mud","Marsh","Jungle"],
+		"food": 5,
+		"improvement": "Quarry",
+		"improvementStats": {"production": 2},
+		"uniques": ["Generated on every [53] tiles <in [Mud] tiles>"]
+	},
+]
