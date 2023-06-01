@@ -4,23 +4,23 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-PolicyIcons/Cisterns
+PolicyIcons/Agrial
   rotate: false
   xy: 4, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-PolicyIcons/Faucets
+PolicyIcons/Cisterns
   rotate: false
-  xy: 812, 60
+  xy: 812, 820
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
 UnitIcons/Croban
   rotate: false
-  xy: 812, 820
+  xy: 812, 60
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
@@ -40,28 +40,28 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/Kingdom of Croatia
   rotate: false
-  xy: 764, 764
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-NationIcons/Kingdom of Georgia
-  rotate: false
   xy: 764, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-ResourceIcons/Fresh Water
+PolicyIcons/Faucets
   rotate: false
   xy: 4, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-UnitIcons/Khevsur
+ResourceIcons/Fresh Water
   rotate: false
   xy: 4, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Khevsur
+  rotate: false
+  xy: 764, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
@@ -79,7 +79,7 @@ BuildingIcons/Pastura
   orig: 752, 752
   offset: 0, 0
   index: -1
-PolicyIcons/Mud Tradition
+NationIcons/Kingdom of Georgia
   rotate: false
   xy: 4, 764
   size: 752, 752
@@ -108,7 +108,7 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Slavic Polytheist Temple
   rotate: false
-  xy: 4, 4
+  xy: 764, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
@@ -127,43 +127,43 @@ PolicyIcons/Reuse
   orig: 752, 752
   offset: 0, 0
   index: -1
-PolicyIcons/Total Irrigation
+PolicyIcons/Shower
   rotate: false
-  xy: 764, 764
+  xy: 4, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
 
 game5.png
-size: 1024, 1024
+size: 2048, 1024
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 NationIcons/United Provinces of The Rio de la Plata
   rotate: false
-  xy: 4, 104
+  xy: 4, 68
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-PolicyIcons/Agriculture
+PolicyIcons/Works
   rotate: false
-  xy: 764, 806
-  size: 50, 50
-  orig: 50, 50
+  xy: 764, 68
+  size: 752, 752
+  orig: 752, 752
   offset: 0, 0
   index: -1
 TileSets/Civ6/Tiles/Mud
   rotate: false
-  xy: 4, 40
+  xy: 4, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mud
   rotate: false
-  xy: 4, 4
+  xy: 1524, 792
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
