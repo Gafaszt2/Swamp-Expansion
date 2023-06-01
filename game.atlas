@@ -4,23 +4,23 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-ResourceIcons/Fresh Water
-  rotate: false
-  xy: 812, 820
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
-UnitIcons/Croban
+PolicyIcons/Cisterns
   rotate: false
   xy: 4, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-UnitIcons/Khevsur
+PolicyIcons/Faucets
   rotate: false
   xy: 812, 60
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Croban
+  rotate: false
+  xy: 812, 820
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
@@ -38,30 +38,30 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
-BuildingIcons/Pastura
-  rotate: false
-  xy: 764, 4
-  size: 752, 752
-  orig: 752, 752
-  offset: 0, 0
-  index: -1
 NationIcons/Kingdom of Croatia
   rotate: false
-  xy: 4, 764
+  xy: 764, 764
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
 NationIcons/Kingdom of Georgia
   rotate: false
-  xy: 4, 4
+  xy: 764, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-ResourceIcons/Natural Gas
+ResourceIcons/Fresh Water
   rotate: false
-  xy: 764, 764
+  xy: 4, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+UnitIcons/Khevsur
+  rotate: false
+  xy: 4, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
@@ -72,37 +72,98 @@ size: 2048, 2048
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+BuildingIcons/Pastura
+  rotate: false
+  xy: 764, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+PolicyIcons/Mud Tradition
+  rotate: false
+  xy: 4, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+PolicyIcons/Reservoir
+  rotate: false
+  xy: 764, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+ResourceIcons/Natural Gas
+  rotate: false
+  xy: 4, 4
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+
+game4.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
 BuildingIcons/Slavic Polytheist Temple
   rotate: false
-  xy: 4, 828
+  xy: 4, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
 BuildingIcons/Tsikhe
   rotate: false
-  xy: 4, 68
+  xy: 764, 4
   size: 752, 752
   orig: 752, 752
   offset: 0, 0
   index: -1
-NationIcons/United Provinces of The Rio de la Plata
+PolicyIcons/Reuse
   rotate: false
-  xy: 764, 828
+  xy: 4, 764
   size: 752, 752
   orig: 752, 752
+  offset: 0, 0
+  index: -1
+PolicyIcons/Total Irrigation
+  rotate: false
+  xy: 764, 764
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+
+game5.png
+size: 1024, 1024
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+NationIcons/United Provinces of The Rio de la Plata
+  rotate: false
+  xy: 4, 104
+  size: 752, 752
+  orig: 752, 752
+  offset: 0, 0
+  index: -1
+PolicyIcons/Agriculture
+  rotate: false
+  xy: 764, 806
+  size: 50, 50
+  orig: 50, 50
   offset: 0, 0
   index: -1
 TileSets/Civ6/Tiles/Mud
   rotate: false
-  xy: 4, 4
+  xy: 4, 40
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/Mud
   rotate: false
-  xy: 764, 792
+  xy: 4, 4
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
