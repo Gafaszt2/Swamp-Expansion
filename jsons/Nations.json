@@ -1,0 +1,158 @@
+[
+	{
+		//nations
+		"name": "United Provinces of The Rio de la Plata",
+		"leaderName": "Manuel Belgrano",
+		"adjective": ["Argentine"],
+		"startBias": ["Mud"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of The United Provinces of The Rio de la Plata i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Is this goodbye now, Farewell, Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 248, 214],
+		"innerColor": [137, 210, 255],
+		"uniqueName": "Nation's War of Independence",
+		"uniques": ["[+2 Culture] from every [Mud]","[+1 Gold] from every [Coast]", "[+10]% Strength <for [Land] units> <when fighting in [Friendly Land] tiles>"],
+		"cities": ["Buenos Aires","Cordoba","Rosario","La Plata","Tucuman","Salta","Mendoza","Vera Cruz","Corrientes","Pilar","Bahia Blanca",
+                            "Resistencia","Posadas","Jujuy","Parana","Merlo","Neuquen","Quilmes","Banfield","Formosa","Lanus",
+                            "La Rioja","Comodora","Rivadavia","San Luis","Ituzaingo","Santa fe","Rio Cuarto","San Rafael","Bariloche"]
+	},
+      {
+		//nations
+		"name": "Kingdom of Georgia",
+		"leaderName": "Tamar",
+		"adjective": ["Georgia"],
+		"startBias": ["Mud"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [255, 188, 209],
+		"innerColor": [177, 31, 31],
+		"uniqueName": "Glory of the World",
+		"uniques": ["[-50]% City-State Influence degradation", "[+2 Gold] from every [Temple]", "[+1 Production] from every [Mud]"],
+		"cities": ["Tiflis", "Guria" ,"Imereti", "Kakheti", "Kvemo Kartli", "Mtskheta", "Racha", "Zemo Svaneti", "Samtskhe",
+			"Javakheti",
+			"Shida Kartli", "Batumi"]
+	},
+      {
+		//nations
+		"name": "Kingdom of Croatia",
+		"leaderName": "Petar Krešimir IV",
+		"adjective": ["Croatia"],
+		"startBias": ["Mud"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "",
+		
+		"declaringWar": "For the good of my people i must declare war!",
+		"attacked": "You are making a big mistake.",
+		"defeated": "Will this be my last goodbye to you?.",
+		"introduction": "Tell me, are you a barbarian, or are you as civilized as we are?",
+		
+		"neutralHello": "Greetings.",
+		"hateHello": "What do YOU want?!",
+		
+		"tradeRequest": "It appears that you do have a reason for existing – to make this deal with me.",
+				
+		"outerColor": [234, 20, 88],
+		"innerColor": [56, 104, 208],
+		"uniqueName": "Regnum Dalmatiae et Chroatia",
+		"uniques": ["[+2 Gold] from every [Coast]", "[+2 Food] from every [Mud]"],
+		"cities": ["Zagreb", "Vukovar" ,"Krapina", "Zagorije", "Sisak", "Moslavina", "Karlovac", "Krizevci", "Varazdin",
+			"Bilogora",
+			"Medimurje", "Podravina"]
+	},
+        {
+		"name": "Aztecs",
+		"leaderName": "Cuauhtemoc",
+		"adjective": ["Aztec"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Domination",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "Xi-miqa-can! Xi-miqa-can! Xi-miqa-can! (Die, die, die!)",
+		"attacked": "Excellent! Let the blood flow in raging torrents!",
+		"defeated": "Monster! Who are you to destroy my greatness?",
+		"introduction": "What do I see before me? Another beating heart for my sacrificial fire.",
+
+		"neutralHello": "Welcome, friend.",
+		"hateHello": "What do you want?",
+		"tradeRequest": "Accept this agreement or suffer the consequences.",
+
+        "outerColor": [92, 38, 24],
+        "innerColor": [56, 229, 119],
+
+		"favoredReligion": "Christianity",
+		"uniqueName": "Quetzalcoatl",
+		"uniques": ["Earn [100]% of killed [Military] unit's [Strength] as [Faith]", "[+2 Faith] from every [Mud]"],
+		"cities": ["Tenochtitlan","Teotihuacan","Tlatelolco","Texcoco","Tlaxcala","Calixtlahuaca","Xochicalco","Tlacopan",
+			"Atzcapotzalco","Tzintzuntzan","Malinalco","Tula","Tamuin","Teayo","Cempoala","Chalco","Tlalmanalco",
+			"Ixtapaluca","Huexotla","Tepexpan","Tepetlaoxtoc","Chiconautla","Zitlaltepec","Coyotepec","Tequixquiac",
+			"Jilotzingo","Tlapanaloya","Tultitan","Ecatepec","Coatepec","Chalchiuites","Chiauhita","Chapultepec",
+			"Itzapalapa","Ayotzinco","Iztapam"],
+        "spyNames": ["Metztli", "Xitllali", "Chimalli", "Quauhtli", "Teyacapan", "Yaotl", "Coatl", "Huitzilin", "Itzli", "Tepin"]
+
+    },
+    {
+		"name": "The Maya",
+		"leaderName": "Pacal",
+		"adjective": ["mayan"],
+		"startBias": ["Jungle"],
+		"preferredVictoryType": "Scientific",
+
+        "startIntroPart1": "",
+        "startIntroPart2": "",
+
+        "declaringWar": "A sacrifice unlike all others must be made!",
+		"attacked": "Muahahahahahaha!",
+		"defeated": "Today comes a great searing pain. With you comes the path to the black storm.",
+		"introduction": "Greetings, wayward one. I am known as Pacal.",
+		"tradeRequest": "Friend, I believe I may have found a way to save us all! Look, look and accept my offering!",
+
+		"neutralHello": "A fine day, it helps you.",
+		"afterPeace": "",
+
+		"neutralLetsHearIt": ["If you must show me."],
+		"neutralNo": ["No no, too much trouble.","No!","Not good enough."],
+		"neutralYes": ["Okay.","Fine.","Accepted."],
+
+		"hateHello": "You.",
+		"hateLetsHearIt": ["Talk.","So?","Speak!"],
+		"hateNo": ["That's unacceptable!","A thousand times no!","Never!"],
+		"hateYes": ["Oh… Fine, okay."],
+		"outerColor": [0, 178, 77],
+		"innerColor": [165, 247, 201],
+		"favoredReligion": "Christianity",
+		"uniqueName": "The Long Count",
+		"uniques": ["Receive a free Great Person at the end of every [Maya Long Count calendar cycle] (every 394 years), after researching [Theology]. Each bonus person can only be chosen once.",
+			"Once The Long Count activates, the year on the world screen displays as the traditional Mayan Long Count.", "[+1 Science] from every [Mud]"],
+		"cities": ["Palenque","Tikal","Chichen Itza","Uxmal","Tulum","Copan","Coba","El Mirador","Calakmul",
+			"Edzna","Lamanai","Izapa","Uaxactun","Comalcalco","Piedras Negras","Cancuen","Yaxha","Quirigua",
+			"Q'umarkaj","Nakbe","Cerros","Xunantunich","Takalik Abaj","Cival","San Bartolo","Altar de Sacrificios","Seibal",
+			"Caracol","Naranjo","Dos Pilas","Mayapan","Ixinche","Zaculeu","Kabah"],
+        "spyNames": ["Camazotz", "Coyopa", "Gukumatz", "Hunahpu", "Huracan", "Ixchel", "Ixtab", "Kukulkán", "Xbalanque", "Zipacna"]
+    },
+]
