@@ -1,6 +1,6 @@
-[	
-    {
-        "name": "Agriculture",
+[
+     {
+        "name": "Agrial",
         "era": "Ancient era",
         "priorities": {
             "Neutral": 0,
@@ -11,7 +11,7 @@
         },
         "uniques": [
             "[+1 Culture] from every [Mud]",
-            "[+1 Production] from every [Strategic resource]"
+            "[-15]% Culture cost of natural border growth [in all cities]"
         ],
         "policies": [
             {
@@ -34,7 +34,7 @@
             {
                 "name": "Cisterns",
                 "uniques": [
-                    "[+10]% Production towards any buildings that already exist in the Capital"
+                   "[+10]% Production towards any buildings that already exist in the Capital"
                     "[+1 Food] from every [Mud]"
                 ],
                 "row": 1,
@@ -51,20 +51,20 @@
                 "column": 2
             },
             {
-                "name": "Total Irrigation",
+                "name": "Shower",
                 "uniques": [
-                    "[+20]% Production towards any buildings that already exist in the Capital"
-                    "[+1 Food] from every [Mud]"
+                     "[+20]% Production towards any buildings that already exist in the Capital"
+                     "[+1 Food] from every [Mud]"
                 ],
                 "requires": ["Cisterns"],
                 "row": 2,
                 "column": 4
             },
             {
-                "name": "Mud Tradition",
+                "name": "Agrial Complete",
                 "uniques": [
                     "[+10]% Production towards any buildings that already exist in the Capital"
-                    "[+2 Production] from every [Mud]"
+                     "[+2 Science] from every [Mud]"
                 ]
             }
         ]
