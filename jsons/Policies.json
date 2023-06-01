@@ -1,0 +1,72 @@
+[	
+    {
+        "name": "Agriculture",
+        "era": "Ancient era",
+        "priorities": {
+            "Neutral": 0,
+            "Cultural": 10,
+            "Diplomatic": 0,
+            "Domination": 0,
+            "Scientific": 10
+        },
+        "uniques": [
+            "[+1 Culture] from every [Mud]",
+            "[+1 Production] from every [Strategic resource]"
+        ],
+        "policies": [
+            {
+                "name": "Reuse",
+                "uniques": [
+                    "[+2 Production] [in all cities]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Faucets",
+                "uniques": [
+                    "Gain a free [Granary] [in all cities]"
+                    "[+1 Science] from every [Mud]"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Cisterns",
+                "uniques": [
+                    "[+10]% Production towards any buildings that already exist in the Capital"
+                    "[+1 Food] from every [Mud]"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Reservoir",
+                "uniques": [
+                    "[+3 Production] [in all cities]"
+                    "[+15 Food] [in capital]"
+                ],
+                "requires": ["Reuse"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Total Irrigation",
+                "uniques": [
+                    "[+20]% Production towards any buildings that already exist in the Capital"
+                    "[+1 Food] from every [Mud]"
+                ],
+                "requires": ["Cisterns"],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Mud Tradition",
+                "uniques": [
+                    "[+10]% Production towards any buildings that already exist in the Capital"
+                    "[+2 Production] from every [Mud]"
+                ]
+            }
+        ]
+    },
+]
